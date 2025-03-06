@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <br> 주 스택: 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=unreal&logoColor=white">
   <br> DB:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
