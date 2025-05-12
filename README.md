@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div> 
-  <br> Unity 개발자.
-  <br> 주 스택: 
+  <br> 서버 개발자, Unity 개발자
+  <br> 주 스택: C++예정
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
   <br> DB:
