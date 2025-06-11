@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <div> 
   <br> 게임 서버 개발자(+클라이언트 개발자)
-  <br> 게임(linux 서버): C++, ubuntu sh, Docker, wsl
+  <br> 게임(linux 서버): C++, ubuntu sh, wsl
+  <br> CI/CD: Jenkins, Docker
   <br> 게임(클라이언트): unity, c# 
   <br> DB: mysql, mariaDB, redis
   <br> 버전 관리: github, git, gitlab, tortoise svn
